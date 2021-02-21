@@ -1,13 +1,16 @@
 {
-    "description": "{Description goes here}.", 
-    "title": "Robert's Farm of Ideas: {running-number-of-idea} -- {running-title-of-idea}", 
+    "description": "For any coupled enzymatic reactions, one can derive a maximum yield in terms of conversion from the underlying thermodynamics.", 
+    "title": "Robert's Farm of Ideas: 5 --  Generalized yields of coupled enzymatic reactions. ", 
     "license": {
         "id": "CC-BY-4.0"
     }, 
-    "notes": "Development is happening here: https://github.com/roberts-farm-of-ideas/{running-number-of-idea}", 
+    "notes": "Development is happening here: https://github.com/roberts-farm-of-ideas/5", 
     "keywords": [
-        "{keyword1}",
-        "{keyword2}"
+        "enzyme cascade reactions",
+        "coupled reactions",
+        "thermodynamics",
+        "generalization",
+        "equilibrium constants"
     ],
     "creators": [
     {
