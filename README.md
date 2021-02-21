@@ -1,10 +1,17 @@
-# Robert's Farm of Ideas: {running-Idea-number}
+# Robert's Farm of Ideas: 5
 
 [![DOI](https://zenodo.org/badge/{badge-number-from-zenodo}.svg)](https://zenodo.org/badge/latestdoi/{badge-number-from-zenodo})
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## This idea in {number-of-characters} characters
-It's good to have a template for multiple related things.
+For any coupled enzymatic reactions, one can derive a maximum yield in terms of conversion from the underlying thermodynamics. This is especially true for transferase reactions, e.g. of the type:
+
+```
+  AB + X = B + AX
+               AX + C = AC + X
+```
+
+The idea is to evaluate the behavior of these systems for all plausibly expectable values of K1 and K2.
 
 ## Sounds great, but...
 You are interested in this topic? But the idea is gibberish and incomplete, or non-sense? Well, you're probably right! 
