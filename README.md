@@ -1,9 +1,9 @@
-# Robert's Farm of Ideas: 5
+# Robert's Farm of Ideas: 5 -- Generalized yields of coupled enzymatic reactions
 
 [![DOI of this idea](https://zenodo.org/badge/doi/10.5281/zenodo.4556446.svg)](https://doi.org/10.5281/zenodo.4556446)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-## This idea in {number-of-characters} characters
+## This idea in short
 For any coupled enzymatic reactions, one can derive a maximum yield in terms of conversion from the underlying thermodynamics. This is especially true for transferase reactions, e.g. of the type:
 
 ```
